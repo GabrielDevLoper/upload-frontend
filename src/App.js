@@ -10,6 +10,7 @@ import {Container, Content } from './style';
 import Upload from './components/Upload';
 import FileList from './components/FileList';
 
+
 class App extends Component {
   state ={
     uploadedFiles: [],
